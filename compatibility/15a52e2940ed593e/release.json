@@ -1,0 +1,10 @@
+{
+  "runtime": "15a52e2940ed593e",
+  "data": {
+    "repository": "jessiewang-hongyan/shiju-data",
+    "commit": "f6e03337ee7a452823e70e6ba55d83f86ed9c2bd"
+  },
+  "config": "static-data/config-92e9af008a108b43e4b9.json",
+  "modules": "modules-15a52e2940ed593e",
+  "legacyCompatibility": "e231436"
+}
