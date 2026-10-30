@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "mode": "retain-current",
+  "retiredLegacy": "e231436",
+  "retainedRuntime": "15a52e2940ed593e",
+  "retainedDirectory": "compatibility/15a52e2940ed593e",
+  "inventory": "compatibility/15a52e2940ed593e/inventory.json",
+  "inventorySha256": "20d16c1b0478391b913ed9e414209be9e5ad419bf88038088fc02636f20d122f",
+  "sourceApplicationCommit": "bc2917bc829afa4b9c21afef3cd29fb17dbb76b1",
+  "sourceData": {
+    "repository": "jessiewang-hongyan/shiju-data",
+    "commit": "f6e03337ee7a452823e70e6ba55d83f86ed9c2bd"
+  }
+}
